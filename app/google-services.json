@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538564804782",
+    "project_id": "gpluslogindemo-144607"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538564804782:android:15bcae05f668ff02",
+        "android_client_info": {
+          "package_name": "com.glogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538564804782-o0th8tpmqcov190ajk7ab74ho461r8bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glogindemo",
+            "certificate_hash": "25B4C7884322A3BD6E0E5EECA9DB347CD314ECBB"
+          }
+        },
+        {
+          "client_id": "538564804782-3naajsr887a002mju0p3d39a8rhrbmo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA2cYIl_tDmRrokt9zrbXpWGKGNgg-YlI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
